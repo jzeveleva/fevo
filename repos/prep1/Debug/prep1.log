@@ -1,0 +1,4 @@
+﻿  prep1.cpp
+C:\Users\jzeve\source\repos\prep1\prep1.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jzeve\source\repos\prep1\prep1.cpp(31): warning C4715: 'balanced': not all control paths return a value
+  prep1.vcxproj -> C:\Users\jzeve\source\repos\prep1\Debug\prep1.exe

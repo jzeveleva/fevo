@@ -1,0 +1,2 @@
+C:\Users\jzeve\source\repos\assignCrisp\Debug\assignCrisp.exe
+C:\Users\jzeve\source\repos\assignCrisp\Debug\assignCrisp.pdb
